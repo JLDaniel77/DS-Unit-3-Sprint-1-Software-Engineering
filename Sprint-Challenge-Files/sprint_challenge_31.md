@@ -270,6 +270,21 @@ career here, you'll have to answer the following:
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
+Question 1:
+- Catching errors and helping other programmers who don't understand certain concepts
+is an important part of code reviews. It helps to have another pair of eyes on the code 
+to catch mistakes. When reviewing another programmer's code, I'm looking for functionality 
+and readability. I appreciate other students pointing out errors or potentially better options
+when reviewing my code. Code reviews are an opportunity to challenge other programmers to explore 
+new libraries or coding methods.
+
+Question 2:
+- Containers would allow us to create reliable and reproducible code. Containers isolate the software
+in a container with all dependencies and its own operating system. Containers also allow for improved 
+portability. The container configuration is is just a file, which can be easily shared. Containers are
+great for software testing, since they provide a consistent development environment, which allows for
+reproducible results.
+
 ### Part 8 - Turn it in!
 
 Add all the files you wrote (`acme.py`, `acme_report.py`, and `acme_test.py`),
